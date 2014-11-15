@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+}
+
+.top-box {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
+.top-box-left-margin {
+  margin-left: 5px;
+}
